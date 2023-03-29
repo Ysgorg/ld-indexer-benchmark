@@ -1,0 +1,31 @@
+Predicate Bitmap in 226 ms 122 us
+Count predicates in 1 sec 38 ms 268 us
+Count Objects in 335 ms 93 us Max was: 3466526
+Bitmap in 3 ms 399 us
+Bitmap bits: 24068428 Ones: 397080
+Object references in 2 sec 462 ms 259 us
+Sort lists in 2 sec 261 ms 500 us
+Index generated in 6 sec 326 ms 689 us
+	Command being timed: "rdf2hdt /data/source/data.nt /data/index/hdt -i"
+	User time (seconds): 56.13
+	System time (seconds): 1.43
+	Percent of CPU this job got: 99%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:57.57
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1383164
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 417241
+	Voluntary context switches: 1
+	Involuntary context switches: 248
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 537464
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0

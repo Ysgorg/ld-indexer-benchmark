@@ -1,0 +1,24 @@
+ Dictionary read shared area.: 0 % / 0.5 %                       Dictionary read subjects.: 0 % / 1.875 %                       Dictionary read predicates.: 0 % / 3.25 %                       Dictionary read objects.: 0 % / 4.625 %                       BitmapTriples loading Bitmap Y: 0 % / 6 %                       BitmapTriples loading Bitmap Z: 0 % / 6.2 %                       BitmapTriples loading Sequence Y: 0 % / 6.4 %                       BitmapTriples loading Sequence Z: 0 % / 6.8 %                       BitmapTriples loading Bitmap Index: 0 % / 19 %                       BitmapTriples loading Array Index: 0 % / 28 %                       BitmapTriples loading Predicate Index: 0 % / 55 %                       BitmapTriples loading Predicate Count: 0 % / 10 %                      59197 results in 38 ms 793 us
+	Command being timed: "hdtSearch /data/index/hdt -q ? https://data.labs.pdok.nl/def/energielabels/pand_huisnummer "10""
+	User time (seconds): 0.04
+	System time (seconds): 0.00
+	Percent of CPU this job got: 64%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.07
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 45936
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 4
+	Minor (reclaiming a frame) page faults: 1932
+	Voluntary context switches: 4
+	Involuntary context switches: 1
+	Swaps: 0
+	File system inputs: 784
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
