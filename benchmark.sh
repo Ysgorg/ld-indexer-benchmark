@@ -2,11 +2,11 @@
 set -e
 
 function usage() {
-    echo "Usage: $0 (dldi|hdt) (index|query|export) <dataset name>"
+    echo "Usage: $0 <application name> (index|query|export) <dataset name>"
 }
 
 application=$1
-if [[ $application != dldi && $application != hdt ]]; then
+if [[ ! $(ls | grep $application) ]]; then
     usage && exit 1
 fi
 
